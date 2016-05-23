@@ -1,14 +1,26 @@
-layout_spectrum: 1
 color:
   saturation: 0
-  lightness: 0.983871
   brandStrength: 0.7204301
+  rhythmicContrast: 1
   brandColors:
     - '#FFFFFF'
     - '#F5BE7D'
     - '#F7931C'
     - '#000000'
     - '#606060'
-  rhythmicContrast: 1
+  lightness: 0.983871
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 1
 typography_spectrum: 0.4408602
 name: Follow The Giraffe
