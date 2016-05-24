@@ -1,14 +1,7 @@
-color:
-  saturation: 0
-  brandStrength: 0.7204301
-  rhythmicContrast: 1
-  brandColors:
-    - '#FFFFFF'
-    - '#F5BE7D'
-    - '#F7931C'
-    - '#000000'
-    - '#606060'
-  lightness: 0.983871
+name: Follow The Giraffe
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.4408602
 collections:
   - index:
       path: /
@@ -21,6 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 1
-typography_spectrum: 0.4408602
-name: Follow The Giraffe
+title: The Best View of New Braunfels Real Estate
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#F5BE7D'
+    - '#F7931C'
+    - '#000000'
+    - '#606060'
+  brandStrength: 0.7204301
+  lightness: 0.983871
+  saturation: 0
+  rhythmicContrast: 1
+purpose: []
