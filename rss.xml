@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Best View of New Braunfels Real Estate]]></title>
+        <description><![CDATA[The Best View of New Braunfels Real Estate]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 05 Jun 2016 00:05:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>www.1837Hoffman.com</p>]]></description>
+            <link>undefinedwww1837hoffmancom/index.html</link>
+            <guid isPermaLink="false">ba8d4b78-5289-42f2-af76-6cf48d799554</guid>
+            <pubDate>Sun, 05 Jun 2016 00:05:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
