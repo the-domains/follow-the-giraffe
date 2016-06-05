@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Best View of New Braunfels Real Estate]]></title>
         <description><![CDATA[The Best View of New Braunfels Real Estate]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/follow-the-giraffe/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 00:05:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 05 Jun 2016 01:18:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/follow-the-giraffe/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>www.1837Hoffman.com</p>]]></description>
-            <link>undefinedwww1837hoffmancom/index.html</link>
+            <description><![CDATA[<p>1837 Hoffman Lane</p>]]></description>
+            <link>https://thegrid.ai/follow-the-giraffe/www1837hoffmancom/index.html</link>
             <guid isPermaLink="false">ba8d4b78-5289-42f2-af76-6cf48d799554</guid>
-            <pubDate>Sun, 05 Jun 2016 00:05:30 GMT</pubDate>
+            <pubDate>Sun, 05 Jun 2016 00:54:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
