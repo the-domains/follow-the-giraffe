@@ -4,20 +4,20 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: www.1837Hoffman.com
-datePublished: '2016-06-05T00:05:30.172Z'
-dateModified: '2016-06-05T00:02:19.008Z'
+description: 1837 Hoffman Lane
+datePublished: '2016-06-05T00:54:30.872Z'
+dateModified: '2016-06-05T00:09:35.928Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-05-www1837hoffmancom.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-05-www1837hoffmancom.md
 url: www1837hoffmancom/index.html
 _type: Article
 
 ---
-www.1837Hoffman.com
+1837 Hoffman Lane
 
 The magnificent 1837 Hoffman Lane in New Braunfels is an approximately 28-acre property that is so much more than a Home. Imagined by the owner, a respected Mason, this masterpiece was brought to life by a team of some of the best talents in the business. The Main Residence sits astutely atop a Private Drive. There is also a Luxury Porte-cochère, a Residential Barndominium with an attached Garage and fully Functional Modern Barn that was designed with the aesthetic of the Property in mind.
 
